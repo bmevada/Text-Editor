@@ -13,8 +13,8 @@ This full-stack application has been deployed to Heroku.
 
 ## Deployed Links
 
-[Link to deployed Heroku]
-[Link to Github] 
+[Link to deployed Heroku] https://secret-cliffs-64359.herokuapp.com/ 
+[Link to Github] https://github.com/bmevada/Text-Editor.git
 
 ## User Story
 
