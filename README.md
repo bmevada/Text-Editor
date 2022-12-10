@@ -10,7 +10,6 @@ In order to build this text editor, an existing application was used and impleme
 
 This full-stack application has been deployed to Heroku.
 
-Remove this: using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
 
 ## Deployed Links
 
