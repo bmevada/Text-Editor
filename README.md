@@ -79,6 +79,7 @@ The following image shows the application's IndexedDB storage:
  - WebpackPwaManifest plug-in
  - Progressive Web Application
  - Heroku
- 
+ - ibd
+
 
 
