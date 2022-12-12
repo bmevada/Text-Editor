@@ -80,6 +80,7 @@ The following image shows the application's IndexedDB storage:
  - Progressive Web Application
  - Heroku
  - ibd
+ - babel
 
 
 
