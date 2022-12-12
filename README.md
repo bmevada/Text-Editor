@@ -58,45 +58,27 @@ THEN the user should have proper build scripts for a webpack application
 
 The following images show the application's appearance and functionality:
 
-![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./Assets/00-demo.gif)
+
 
 The following image shows the application's `manifest.json` file:
 
-![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./Assets/01-manifest.png)
+
 
 The following image shows the application's registered service worker:
 
-![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/02-service-worker.png)
+
 
 The following image shows the application's IndexedDB storage:
 
-![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
+
 
 
 ## Development Technologies Used
+ - nodemon
+ - manifest.json
+ - WebpackPwaManifest plug-in
+ - Progressive Web Application
+ - Heroku
+ 
 
-
-
-
-  * Uses IndexedDB to create an object store and includes both GET and PUT methods
-
-  * The application works without an internet connection
-
-  * Automatically saves content inside the text editor when the DOM window is unfocused
-
-  * Bundled with webpack
-
-  * Create a service worker with workbox that Caches static assets
-
-  * The application should use babel in order to use async / await
-
-  * Application must have a generated `manifest.json` using the `WebpackPwaManifest` plug-in
-
-  * Can be installed as a Progressive Web Application
-
-
-* Application deployed to Heroku at live URL with build scripts
-
-
-* Repository contains quality README file with description, screenshot, and link to deployed application
 
