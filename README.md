@@ -57,19 +57,24 @@ THEN the user should have proper build scripts for a webpack application
 ## Mock-Up
 
 The following images show the application's appearance and functionality:
+<img width="881" alt="mainpage" src="https://user-images.githubusercontent.com/109460560/206978439-23323af5-3157-488e-9f7b-260ec13a95b6.png">
 
+<img width="404" alt="desktop application" src="https://user-images.githubusercontent.com/109460560/206978460-c12d73bb-256f-4d11-aafb-94baaf632bda.png">
 
 
 The following image shows the application's `manifest.json` file:
 
+<img width="1009" alt="manifest" src="https://user-images.githubusercontent.com/109460560/206978474-36eca987-8bfa-4668-af65-c37686bb2d06.png">
 
 
 The following image shows the application's registered service worker:
 
+<img width="1012" alt="service-workers" src="https://user-images.githubusercontent.com/109460560/206978485-f73860dc-9a3f-44c5-ae4b-dfd082cafb28.png">
 
 
 The following image shows the application's IndexedDB storage:
 
+<img width="1004" alt="ibd-storage" src="https://user-images.githubusercontent.com/109460560/206978498-8295fad5-78f1-42e2-b28b-8fa51284b24d.png">
 
 
 
